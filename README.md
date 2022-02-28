@@ -6,7 +6,6 @@ Dataset：
   ID01~ID10:链接: https://pan.baidu.com/s/1o6TgcDwfcDIFl6n9dzsysA 提取码: d7wq 
 ```
 
-Cancel changes
 1、Build LF-VIO on ROS
 Clone the repository and catkin_make:
 ```
