@@ -28,6 +28,9 @@ Change config/mindvision/mindvision.yaml
 
 mask parameters:(CENTER_X、CENTER_Y、MIN_R、MAX_R)
 
+
+4、Dataset camera parameters
+
 Pal_camera(up):
 ```
 model_type: scaramuzza
