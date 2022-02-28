@@ -21,17 +21,18 @@ Clone the repository and catkin_make:
 ```
     roslaunch vins_estimator mindvision.launch
 ```
-
+---
 3、Use your own PAL camera
 
 Change config/mindvision/mindvision.yaml 
 
 mask parameters:(CENTER_X、CENTER_Y、MIN_R、MAX_R)
 
+---
 
 4、Dataset camera parameters
 
-Pal_camera(up):
+Pal_camera (up):
 ```
 model_type: scaramuzza
 camera_name: pal
@@ -72,7 +73,7 @@ affine_parameters:
    cy: 486.025172
 ```
 
-Pal_camera(down):
+Pal_camera (down): 
 ```
 model_type: scaramuzza
 camera_name: pal
@@ -113,8 +114,7 @@ affine_parameters:
    cy: 479.232243
 
 ```
-
-Realsense(left and right)
+Realsense (left and right)：
 ```
 model_type: PINHOLE
 camera_name: camera
