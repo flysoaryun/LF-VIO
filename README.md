@@ -144,7 +144,7 @@ arXiv preprint arXiv:2202.12613, 2022.
 ```
 @article{wang2022lf,
   title={LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane},
-  author={Wang, Ze and Yang, Kailun and Shi, Hao Fei, Gao and Wang, Kaiwei},
+  author={Wang, Ze and Yang, Kailun and Shi, Hao and Fei, Gao and Wang, Kaiwei},
   journal={arXiv preprint arXiv:2202.12613},
   year={2022}
 }
