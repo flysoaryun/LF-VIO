@@ -137,14 +137,14 @@ projection_parameters:
 If you use our code or dataset, please consider referencing the following paper:
 
 **LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane.**
-Z. Wang, K. Yang, H. Shi, K. Wang. 
+Z. Wang, K. Yang, H. Shi, F. Gao, K. Wang. 
 arXiv preprint arXiv:2202.12613, 2022.
 [[**PDF**](https://arxiv.org/pdf/2202.12613)]
 
 ```
 @article{wang2022lf,
   title={LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane},
-  author={Wang, Ze and Yang, Kailun and Shi, Hao and Wang, Kaiwei},
+  author={Wang, Ze and Yang, Kailun and Shi, Hao Fei, Gao and Wang, Kaiwei},
   journal={arXiv preprint arXiv:2202.12613},
   year={2022}
 }
