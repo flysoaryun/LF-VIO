@@ -153,4 +153,4 @@ arXiv preprint arXiv:2202.12613, 2022.
 
 # Acknowledgements
 
-- We thank the authors of [VINS-MONO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), LVI-SAM for their great jobs.
+- We thank the authors of [VINS-MONO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM) for their great jobs.
