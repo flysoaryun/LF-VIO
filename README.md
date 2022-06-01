@@ -1,10 +1,13 @@
 # LF-VIO
 
+
+
 ## Download PALVIO Dataset
   ID01, ID06, ID10: [**Google Drive**](https://drive.google.com/drive/folders/1RdnUtMulDuhWBfAgq_CLp18EgDvTrZ89?usp=sharing)
   
   ID01~ID10: [**Baidu Yun**](https://pan.baidu.com/s/1o6TgcDwfcDIFl6n9dzsysA), Code: d7wq 
 
+<img src="figure\LF-VIO-hardware.png" alt="Hardware" style="zoom: 10%;" />
 
 ## How to run LF-VIO
 1、Build LF-VIO on ROS
