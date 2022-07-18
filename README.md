@@ -230,7 +230,7 @@ In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IRO
 ```
 @inproceedings{wang2022lfvio,
   title={LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane},
-  author={Wang, Ze and Yang, Kailun and Shi, Hao and Fei, Gao and Wang, Kaiwei},
+  author={Wang, Ze and Yang, Kailun and Shi, Hao and Li, Peng and Gao, Fei and Wang, Kaiwei},
   booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2022}
 }
