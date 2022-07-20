@@ -218,6 +218,7 @@ body_T_cam1: !!opencv-matrix
        3.6697063849344680e-04, 8.6931302450199057e-03, 0., 0., 0., 1. ]
 ```
 
+[![Video](demo.jpg?raw=true)](https://yangkailun.com/videos/lfvio.mp4 "Video Demo")
 
 ## Publication
 If you use our code or dataset, please consider referencing the following paper:
