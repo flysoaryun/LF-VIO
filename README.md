@@ -42,7 +42,7 @@ Pal_camera(each)
 
 Fov: 360°x(40°~120°)
 
-Resolution ratio: 1280X960
+Resolution ratio: 1280x960
 
 Lens: Designed by Hangzhou HuanJun Technology.
 
@@ -136,7 +136,7 @@ Realsense 430
 
 Fov: 360°x(40°~120°)
 
-Resolution ratio: 640X480
+Resolution ratio: 640x480
 
 Lens and Sensor: Designed by Intel.
 
