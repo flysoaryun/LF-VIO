@@ -31,15 +31,15 @@ Clone the repository and catkin_make:
 
 Change config/mindvision/mindvision.yaml 
 
-mask parameters:(CENTER_X、CENTER_Y、MIN_R、MAX_R)
+mask parameters: `(CENTER_X、CENTER_Y、MIN_R、MAX_R)`
 
 ---
 
 4、Dataset camera parameters
 Dataset include two Panoramic Annular cameras, Realsense 430, IMU(CUAV Nora) and ground truth captured by vicon.
 
-Pal_camera(each)
-
+Pal_camera(each):
+```
 Fov: 360°x(40°~120°)
 
 Resolution ratio: 1280x960
@@ -49,7 +49,7 @@ Lens: Designed by Hangzhou HuanJun Technology.
 Sensor: Mindvision stereo module.
 
 Frequency: 15Hz
-
+```
 
 Pal_camera (up):
 ```
@@ -91,6 +91,7 @@ affine_parameters:
    cx: 645.107791
    cy: 486.025172
 ```
+
 Pal_camera (down): 
 ```
 model_type: scaramuzza
@@ -132,8 +133,9 @@ affine_parameters:
    cy: 479.232243
 
 ```
-Realsense 430
 
+Realsense 430:
+```
 Fov: 360°x(40°~120°)
 
 Resolution ratio: 640x480
@@ -141,6 +143,7 @@ Resolution ratio: 640x480
 Lens and Sensor: Designed by Intel.
 
 Frequency: 15Hz
+```
 
 Realsense (left and right)：
 ```
@@ -159,10 +162,10 @@ projection_parameters:
    cx: 323.1204833984375
    cy: 236.7432098388672
 ```
-IMU(CUAV Nora)
 
-Frequency: 200Hz
+IMU(CUAV Nora):
 ```
+Frequency: 200Hz
 acc_n: 0.02          # accelerometer measurement noise standard deviation.
 gyr_n: 0.01         # gyroscope measurement noise standard deviation.    
 acc_w: 0.04         # accelerometer bias random work noise standard deviation.  
