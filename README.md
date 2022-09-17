@@ -1,5 +1,9 @@
 # LF-VIO
 
+## LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane [[PDF]](https://arxiv.org/pdf/2202.12613.pdf)
+
+Ze Wang, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Peng Li](https://person.zju.edu.cn/en/lipeng), [Fei Gao](http://zju-fast.com/fei-gao/), [Kaiwei Wang](http://wangkaiwei.org/indexeg.html).
+
 ## News 
 **LF-VIO** [[**PDF**](https://arxiv.org/pdf/2202.12613)] is accepted to **IROS2022**.
 
