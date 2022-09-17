@@ -5,7 +5,7 @@
 Ze Wang, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Peng Li](https://person.zju.edu.cn/en/lipeng), [Fei Gao](http://zju-fast.com/fei-gao/), [Kaiwei Wang](http://wangkaiwei.org/indexeg.html).
 
 ## News 
-**LF-VIO** [[**PDF**](https://arxiv.org/pdf/2202.12613)] is accepted to **IROS2022**.
+**LF-VIO** is accepted to **IROS2022**.
 
 ## Download PALVIO Dataset
   ID01, ID06, ID10: [**Google Drive**](https://drive.google.com/drive/folders/1RdnUtMulDuhWBfAgq_CLp18EgDvTrZ89?usp=sharing)
