@@ -12,6 +12,13 @@ Ze Wang, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Peng Li](https://pers
 
 If you find this work useful or interesting, please kindly give us a star :star:, **thanks!**:grinning:
 
+## Ourdoor test
+
+
+https://github.com/flysoaryun/LF-VIO/assets/36565779/02dd6018-d876-4a6a-a051-ecb804317838
+
+
+
 ## Download PALVIO Dataset
   ID01, ID06, ID10: [**Google Drive**](https://drive.google.com/drive/folders/1RdnUtMulDuhWBfAgq_CLp18EgDvTrZ89?usp=sharing)
   
