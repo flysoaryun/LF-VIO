@@ -7,6 +7,11 @@ Ze Wang, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Peng Li](https://pers
 ## News 
 **LF-VIO** is accepted to **IROS2022**.
 
+## Wiki 
+[**LF-VIO Wiki**](https://github.com/flysoaryun/LF-VIO/wiki) is **constantly being updated......**
+
+If you find this work useful or interesting, please kindly give us a star :star:, **thanks!**:grinning:
+
 ## Download PALVIO Dataset
   ID01, ID06, ID10: [**Google Drive**](https://drive.google.com/drive/folders/1RdnUtMulDuhWBfAgq_CLp18EgDvTrZ89?usp=sharing)
   
