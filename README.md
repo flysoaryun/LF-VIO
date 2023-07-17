@@ -45,7 +45,7 @@ Clone the repository and catkin_make:
 ---
 3、Use your own PAL camera
 
-Change config/mindvision/mindvision.yaml 
+Change **config/mindvision/mindvision.yaml** 
 
 mask parameters: `(CENTER_X、CENTER_Y、MIN_R、MAX_R)`
 
