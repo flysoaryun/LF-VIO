@@ -16,7 +16,7 @@ If you find this work useful or interesting, please kindly give us a star :star:
 
 
 
-https://github.com/flysoaryun/LF-VIO/assets/36565779/fd4b077f-bc40-493b-af78-777b7f952b3b
+https://github.com/flysoaryun/LF-VIO/assets/36565779/753f9c04-a352-4a90-bdef-4451068da3fe
 
 
 
