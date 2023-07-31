@@ -15,9 +15,17 @@ If you find this work useful or interesting, please kindly give us a star :star:
 ## Ourdoor test
 
 
-https://github.com/flysoaryun/LF-VIO/assets/36565779/02dd6018-d876-4a6a-a051-ecb804317838
+
+https://github.com/flysoaryun/LF-VIO/assets/36565779/fd4b077f-bc40-493b-af78-777b7f952b3b
 
 
+
+
+**Green:** LF-VIO
+
+**Blue:** [**LF-VISLAM**](https://github.com/flysoaryun/LF-VISLAM) (LF-VIO+Loop closure) 
+
+**Red:** Groundtruth
 
 ## Download PALVIO Dataset
   ID01, ID06, ID10: [**Google Drive**](https://drive.google.com/drive/folders/1RdnUtMulDuhWBfAgq_CLp18EgDvTrZ89?usp=sharing)
